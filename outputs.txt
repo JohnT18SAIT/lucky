@@ -1,0 +1,2 @@
+Number of letters: 486
+Number of digits: 1
